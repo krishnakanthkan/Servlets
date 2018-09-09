@@ -15,6 +15,7 @@ public class WelcomeServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	//first commmit
 	/**
+	 * this is second
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
